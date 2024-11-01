@@ -13,10 +13,12 @@
             "link": "https://www.youtube.com/watch?v=NZQ3ZlLanB4&t=20s",
             "percent": 100,
             "hz": 360,
+        },
+        {
             "user": "frister gan",
             "link": "https://www.youtube.com/watch?v=q80wYlyvpxQ",
             "percent": 77,
-            "hz": 360
+            "hz": 360,
         }
     ]
 }
