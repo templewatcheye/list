@@ -1,5 +1,5 @@
 {
-    "id": 111713547,
+    "id": 111715280,
     "name": "scmhackafoon",
     "author": "frister gan",
     "creators": ["frister gan"],
@@ -8,5 +8,11 @@
     "percentToQualify": "46",
     "password": "Free To Copy",
     "records": [
+           {
+            "user": "accident mr man",
+            "link": "https://www.youtube.com/watch?v=1a2Qv9QmdZk&t=27s",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }
