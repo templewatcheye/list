@@ -1,17 +1,21 @@
 {
-    "id": 57436521,
-    "name": "Sample Level 3",
-    "author": "Different Publisher",
-    "creators": ["Solo_Creator"],
-    "verifier": "i",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
-    "percentToQualify": "100",
+    "id": 111714095,
+    "name": "your done",
+    "author": "hister shan",
+    "creators": ["hister shan"],
+    "verifier": "hister shan",
+    "verification": "https://www.youtube.com/watch?v=FjFi0PbJsuY&t=80s",
+    "percentToQualify": "55",
     "password": "46290",
     "records": [
       {
-            "user": "i",
-            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+            "user": "mr man",
+            "link": "https://www.youtube.com/watch?v=NZQ3ZlLanB4&t=20s",
             "percent": 100,
+            "hz": 360,
+            "user": "frister gan",
+            "link": "https://www.youtube.com/watch?v=q80wYlyvpxQ",
+            "percent": 77,
             "hz": 360
         }
     ]
