@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+         {
+            "user": "rister nan",
+            "link": "https://www.youtube.com/watch?v=JkaSWVLEirs&t=70s",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }
