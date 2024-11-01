@@ -13,6 +13,12 @@
             "link": "https://www.youtube.com/watch?v=yxdgTmpJ1us&t=10s",
             "percent": 100,
             "hz": 360
+        },
+          {
+            "user": "humongus mr man",
+            "link": "https://www.youtube.com/watch?v=gXDt6sar_H0&t=75s",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
