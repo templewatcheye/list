@@ -8,5 +8,11 @@
     "percentToQualify": 30,
     "password": "free to copy",
     "records": [
+         {
+            "user": "hister shan",
+            "link": "https://www.youtube.com/watch?v=yxdgTmpJ1us&t=10s",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }
